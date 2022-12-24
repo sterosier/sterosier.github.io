@@ -83,11 +83,11 @@ author:
   name             : "Stéphane Térosier"
   avatar           : "profile.png"
   bio              : "Postdoc"
-  location         : "Leiden"
-  employer         : "Leiden University Centre for Linguistics"
+  location         : 
+  employer         : "LUCL"
   pubmed           : 
   googlescholar    : 
-  email            : "s.d.terosier[a]hum.leidenuniv.nl"
+  email            : "s.d.terosier@hum.leidenuniv.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
