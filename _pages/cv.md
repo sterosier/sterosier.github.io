@@ -7,6 +7,5 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 This is my [cv](https://sterosier.github.io/files/CV-English.pdf).
