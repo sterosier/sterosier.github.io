@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-This is my [cv](http:\\sterosier.github.io\files\CV-English.pdf).
+This is my [cv](https://sterosier.github.io/files/CV-English.pdf).
