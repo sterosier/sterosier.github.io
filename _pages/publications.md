@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
-
 ## In preparation
 - In prep. Remarks on gender in Martinican Creole.
 - In prep. Tense-modality interactions in Martinican Creole.
