@@ -12,4 +12,4 @@ My name is Stéphane Térosier. I am a postdoctoral researcher and lecturer at t
 
 Beyond that, although I do not claim to be an expert, I am also interested in the sociolinguistics of creole languages. Creoles are often in contact with the European languages from which they borrowed the bulk of their lexicon. A consequence of this is that they are sometimes viewed as lesser varieties of their lexifiers. The unfortunate effect of this hierarchy is the stigmatization of creole speakers. Even worse is the fact that creole speakers themselves will sometimes look down on their native languages as if they weren't full-fledged languages.
 
-My hope, therefore, is that my contribution to the study of creole languages will rehabilitate them in the eyes of their speakers.
+My hope, therefore, is that my contribution to the study of creole languages will help rehabilitate them in the eyes of their speakers.
