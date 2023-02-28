@@ -10,7 +10,7 @@ author_profile: true
 - In prep. Tense-modality interactions in Martinican Creole.
 
 ## Journal articles
-- 2023: **Térosier, Stéphane**, Noémie François-Haugrin and Minella Duzerol. La notion de langue(s) standard(s) en Martinique. *Tinkuy*.
+- 2022: **Térosier, Stéphane**, Noémie François-Haugrin and Minella Duzerol. La notion de langue(s) standard(s) en Martinique. *Tinkuy*. ([pdf](https://llm.umontreal.ca/public/FAS/llm/Documents/2-Recherche/Tinkuy_No_27.pdf))
 - 2022: **Térosier, Stéphane**. Didactique des langues étrangères en contexte diglossique: quel rôle pour le créole martiniquais dans l’apprentissage de l’anglais. *Kréolistika*.
 - 2017: **Térosier, Stéphane**. Apprendre une L3 en contexte diglossique : rôle mineur pour langue minorée. _Revue transatlantique d'études suisses_, 6-7, 235-252. ([pdf](https://llm.umontreal.ca/public/FAS/llm/Documents/2-Recherche/RTES-6-7.pdf#page=235))
 
