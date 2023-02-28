@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Refereed conference talks
+- 2023: Non-canonical wh-questions in Martinican Creole: A combination of anaphoricity and speech act modification. *Grote Taaldag 2023*.
+- 2023: The syntax and pragmatics of the clausal determiner in Martinican Creole wh-questions. *Winter Conference of the Society for Pidgin and Creole Linguistics*.
 - 2022: Standardization and linguistic insecurity in a minority language setting: The case of Martinican Creole. *Winter Conference of the Society for Pidgin and Creole Linguistics*. With Noémie François-Haugrin and Minella Duzerol.
 - 2021: Les interrogatives partielles "définies" du créole martiniquais. *50 ans de linguistique à l’UQAM*.
 - 2021: Is Martinican French a hybrid grammar? Evidence for the influence of Martinican Creole in the expression of motion events. *Winter Conference of the Society for Pidign and Creole Linguistics*. With Noémie François-Huagrin.
