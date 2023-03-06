@@ -14,4 +14,4 @@ Beyond that, although I do not claim to be an expert, I am also interested in th
 
 My hope, therefore, is that my contribution to the study of creole languages will help rehabilitate them in the eyes of their speakers.
 
-%stephane terosier
+[//]: # (stephane terosier)
