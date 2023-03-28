@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Refereed conference talks
+- 2023: L'émergence d'un français national : apports d'une approche basée sur la recombinaison des traits. *COLEF : Contacts de cutlure et de langues dans les espaces francophones*.
+- 2023: Remise en question du (semi-)continuum martiniquais : Ce que les perceptions des locuteurs nous apprennent sur les indexicalités des variétés en contact. *COLEF : Contacts de cultures et de langues dans les espaces francophones*. With Chiara Ardoino and Noémie François-Haugrin. 
 - 2023: Non-canonical wh-questions in Martinican Creole: A combination of anaphoricity and speech act modification. *Grote Taaldag 2023*.
 - 2023: The syntax and pragmatics of the clausal determiner in Martinican Creole wh-questions. *Winter Conference of the Society for Pidgin and Creole Linguistics*.
 - 2022: Standardization and linguistic insecurity in a minority language setting: The case of Martinican Creole. *Winter Conference of the Society for Pidgin and Creole Linguistics*. With Noémie François-Haugrin and Minella Duzerol.
