@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Refereed conference talks
+- 2023: Toward the emergence of gender in Martinican Creole. *Society for Pidgin and Creole Linguistics Summer Meeting 2023*.
+- 2023: From Diglossia to Creole standardisation and changing indexicalities: A perceptual testing of the Martinican (semi-)continuum. *Society for Pidgin and Creole Linguistics Summer Meeting 2023*. With Chiara Ardoino and Noémie François-Haugrin.
 - 2023: L'émergence d'un français national : apports d'une approche basée sur la recombinaison des traits. *COLEF : Contacts de cutlure et de langues dans les espaces francophones*.
 - 2023: Remise en question du (semi-)continuum martiniquais : Ce que les perceptions des locuteurs nous apprennent sur les indexicalités des variétés en contact. *COLEF : Contacts de cultures et de langues dans les espaces francophones*. With Chiara Ardoino and Noémie François-Haugrin. 
 - 2023: Non-canonical wh-questions in Martinican Creole: A combination of anaphoricity and speech act modification. *Grote Taaldag 2023*.
