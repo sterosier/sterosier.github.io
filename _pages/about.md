@@ -20,9 +20,9 @@ My hope, therefore, is that my contribution to the study of creole languages wil
 
 ## Links
 
-[Profile page @ Leiden University](https://www.universiteitleiden.nl/en/staffmembers/stephane-terosier#tab-1)
-[ORC ID: 0000-0001-7691-0789](https://orcid.org/0000-0001-7691-0789)
-[ResearchGate profile](https://www.researchgate.net/profile/Stephane-Terosier)
+- [Profile page @ Leiden University](https://www.universiteitleiden.nl/en/staffmembers/stephane-terosier#tab-1)
+- [ORC ID: 0000-0001-7691-0789](https://orcid.org/0000-0001-7691-0789)
+- [ResearchGate profile](https://www.researchgate.net/profile/Stephane-Terosier)
 
 
 [//]: # (stephane terosier)
