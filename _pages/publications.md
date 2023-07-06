@@ -15,5 +15,9 @@ author_profile: true
 - 2017: **Térosier, Stéphane**. Apprendre une L3 en contexte diglossique : rôle mineur pour langue minorée. _Revue transatlantique d'études suisses_, 6-7, 235-252. ([pdf](https://llm.umontreal.ca/public/FAS/llm/Documents/2-Recherche/RTES-6-7.pdf#page=235))
 
 ## Conference proceedings
-- 2021: Definiteness and specificity in the Martinican Creole DP: Evidence from relative clauses. _Proceedings of the 2019 Annual Congress of the Canadian Linguistics Association_. ([pdf](https://cla-acl.ca/pdfs/actes-2019/Terosier-CLA-2019.pdf))
-- 2020: Les modaux du créole martiniquais : des verbes à montée. In G. L'Étang, C. Mencé-Caster and R. Confiant (eds.) _Tracées de Jean Bernabé_, 145-161.
+- 2021: **Térosier, Stéphane**. Definiteness and specificity in the Martinican Creole DP: Evidence from relative clauses. _Proceedings of the 2019 Annual Congress of the Canadian Linguistics Association_. ([pdf](https://cla-acl.ca/pdfs/actes-2019/Terosier-CLA-2019.pdf))
+- 2020: **Térosier, Stéphane**. Les modaux du créole martiniquais : des verbes à montée. In G. L'Étang, C. Mencé-Caster and R. Confiant (eds.) _Tracées de Jean Bernabé_, 145-161.
+
+## Book chapters
+-2023: **Térosier, Stéphane**. A few remarks on gender in Martinican Creole. In P. Cabredo Hofherr, H. Glaude and E. Soare (eds.). *La grammaire est une fête/Grammar is a moveable feast. Mélanges offerts à/A webschrift for Anne Zribi-Hertz*, 327-340. Paris: Zenodo. ([pdf](https://))
+-2023: Cabredo Hofherr, Patricia, and **Stéphane Térosier**. *Give*-constructions with final clauses - comparing Haitian and Martinican. In P. Cabredo Hofherr, H. Glaude and E. Soare. *La grammaire est une fête/Grammar is a moveable feast. Mélanges offerts à/A webschrift for Anne Zribi-Hertz*, 93-102. Paris: Zenodo. ([pdf](https://)
