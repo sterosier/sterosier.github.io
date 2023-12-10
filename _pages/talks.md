@@ -24,5 +24,5 @@ author_profile: true
 
 
 ## Invited talks
-- 2023: Martinican Creole "definite" *wh*-questions: At the interface of syntax and pragmatics. *University at Buffalo*. ([pdf](https://sterosier.github.io/files/Térosier_UB talk v2.pdf))
+- 2023: Martinican Creole "definite" *wh*-questions: At the interface of syntax and pragmatics. *University at Buffalo*. ([pdf](https://sterosier.github.io/files/Terosier_UB_talk.pdf))
 - 2015: Didactique des langues étrangères en contexte diglossique : quel rôle pour le créole dans l'apprentissage de l'anglais? *Journée d'étdude du CRILLASH*.
