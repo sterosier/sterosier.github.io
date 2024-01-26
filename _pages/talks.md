@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Refereed conference talks
+- 2024: Vulnerability at the syntax-pragmatics interface: Evidence from titles and forms of address in Martinican French. *Society for Pidgin and Creole Linguistics Winter Meeting 2024*.
+- 2024: A ‘Language of the heart’ in times of attrition: (De)constructiong stereotypes around Martinican Creole. *Society for Pidgin and Creole Linguistics Winter Meeting 2024*. With Chiara Ardoino and Noémie François-Haugrin.
+- 2024: The preserve of the rural elderly, or a language for modern life? Authenticity, anonymity and indexical ambiguity in Martinican Creole. *LSA Annual Meeting*. With Chiara Ardoino and Noémie François-Haugrin.
 - 2023: Toward the emergence of gender in Martinican Creole. *Society for Pidgin and Creole Linguistics Summer Meeting 2023*.
 - 2023: From Diglossia to Creole standardisation and changing indexicalities: A perceptual testing of the Martinican (semi-)continuum. *Society for Pidgin and Creole Linguistics Summer Meeting 2023*. With Chiara Ardoino and Noémie François-Haugrin.
 - 2023: L'émergence d'un français national : apports d'une approche basée sur la recombinaison des traits. *COLEF : Contacts de cutlure et de langues dans les espaces francophones*.
