@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Stéphane Térosier"
 title_separator          : "-"
 name                     : &name "Stéphane Térosier"
-description              : &description "Postdoctoral researcher"
+description              : &description "Assistant Professor"
 url                      : https://sterosier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sterosier/sterosier.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Stéphane Térosier"
   avatar           : "portrait.jpg"
-  bio              : "Postdoctoral researcher"
+  bio              : "Assistant Professor"
   location         : 
-  employer         : "Leiden University"
+  employer         : "University at Buffalo"
   pubmed           : 
   googlescholar    : 
-  email            : "s.d.terosier@hum.leidenuniv.nl"
+  email            : "sterosie@buffalo.edu"
   researchgate     :  "https://www.researchgate.net/profile/Stephane-Terosier"
   uri              :
   bitbucket        :
