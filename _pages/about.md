@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Stéphane Térosier. I am an Assistant Professor at the [Department of Romance Languages and Literature](https://arts-sciences.buffalo.edu/romance-languages-literatures.html) at the University at Buffalo as an Assistant Professor. My main research interests include the syntax of creole languages, especially Martinican creole (of which I am a native speaker). I am also interested in the syntactic and sociolinguistics consequences of the contact between a creole and its lexifier. More generally, my research focuses on syntax and the syntax-semantics and syntax-pragmatics interfaces.
+My name is Stéphane Térosier. I am an Assistant Professor at the [Department of Romance Languages and Literature](https://arts-sciences.buffalo.edu/romance-languages-literatures.html) at the University at Buffalo. My main research interests include the syntax of creole languages, especially Martinican creole (of which I am a native speaker). I am also interested in the syntactic and sociolinguistics consequences of the contact between a creole and its lexifier. More generally, my research focuses on syntax and the syntax-semantics and syntax-pragmatics interfaces.
 
 ## About creoles
 
