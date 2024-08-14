@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Stéphane Térosier. I am currently a postdoctoral researcher and lecturer at the [Leiden University Centre for Linguistics](https://www.universiteitleiden.nl/en/humanities/leiden-university-centre-for-linguistics). As of August 2024, I will be joining the Department of Romance Languages and Literature at the University at Buffalo as an Assistant Professor. My main research interests include the syntax of creole languages, especially Martinican creole (of which I am a native speaker). I am also interested in the syntactic and sociolinguistics consequences of the contact between a creole and its lexifier. More generally, my research focuses on syntax and the syntax-semantics and syntax-pragmatics interfaces.
+My name is Stéphane Térosier. I am an Assistant Professor at the [Department of Romance Languages and Literature](https://arts-sciences.buffalo.edu/romance-languages-literatures.html) at the University at Buffalo as an Assistant Professor. My main research interests include the syntax of creole languages, especially Martinican creole (of which I am a native speaker). I am also interested in the syntactic and sociolinguistics consequences of the contact between a creole and its lexifier. More generally, my research focuses on syntax and the syntax-semantics and syntax-pragmatics interfaces.
 
 ## About creoles
 
@@ -20,7 +20,6 @@ My hope is that my contribution to the study of creole languages will help rehab
 
 ## Links
 
-- [Profile page @ Leiden University](https://www.universiteitleiden.nl/en/staffmembers/stephane-terosier#tab-1)
 - [ORC ID: 0000-0001-7691-0789](https://orcid.org/0000-0001-7691-0789)
 - [ResearchGate profile](https://www.researchgate.net/profile/Stephane-Terosier)
 
