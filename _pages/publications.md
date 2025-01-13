@@ -16,7 +16,7 @@ author_profile: true
 ## Conference proceedings
 - 2024: Storme, Benjamin and **Stéphane Térosier**. Les voyelles du créole martiniquais. _SHS Web of Conferences_ (191). ([pdf](https://www.shs-conferences.org/articles/shsconf/pdf/2024/11/shsconf_cmlf2024_02011.pdf))
 - 2024: Ardoino, Chiara, Noémie François-Haugrin and **Stéphane Térosier**. The preserve of the rural elderly, or a language for modern life? Authenticity, anonymity and indexical ambiguity in Martinican Creole. _Proceedings of the Linguistic Society of America_. ([pdf](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/download/5706/5507))
-- 2024: Térosier, Stéphane. A first look at the clausal determiner in Martinican Creole “definite” wh-questions. _Proceedings of “50 ans de lingustique à l’UQAM”_. ([pdf](https://archipel.uqam.ca/17542/1/14-Terosier_2024_A%20first%20look%20at%20the%20clausal%20determiner%20in%20Martinican%20creole_direct%20WH-questions.pdf))
+- 2024: **Térosier, Stéphane**. A first look at the clausal determiner in Martinican Creole “definite” wh-questions. _Proceedings of “50 ans de lingustique à l’UQAM”_. ([pdf](https://archipel.uqam.ca/17542/1/14-Terosier_2024_A%20first%20look%20at%20the%20clausal%20determiner%20in%20Martinican%20creole_direct%20WH-questions.pdf))
 - 2021: **Térosier, Stéphane**. Definiteness and specificity in the Martinican Creole DP: Evidence from relative clauses. _Proceedings of the 2019 Annual Congress of the Canadian Linguistics Association_. ([pdf](https://cla-acl.ca/pdfs/actes-2019/Terosier-CLA-2019.pdf))
 - 2020: **Térosier, Stéphane**. Les modaux du créole martiniquais : des verbes à montée. In G. L'Étang, C. Mencé-Caster and R. Confiant (eds.) _Tracées de Jean Bernabé_, 145-161.
 
