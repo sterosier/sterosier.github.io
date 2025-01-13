@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Refereed conference talks
+- 2025: An investigation into the role of feature interpretability as a constraint on feature recombination._Society for Pidgin and Creole Linguistics_, Philadelphia. ([pdf](https://sterosie.github.io/files/SPCLwinter2025_feature_interpretability.pdf)
 - 2024: Les voyelles du créole martiniquais. _Congrès mondial de linguistique française_, Université de Lausanne. With Benjamin Storme.
 - 2024: Un(der)-standardised languages and purism: a view from Creole-speaking Martinique. _Sociolinguistics Symposium 25_. With Chiara Ardoino and Noémie François-Haugrin.
 - 2024: Vulnerability at the syntax-pragmatics interface: Evidence from titles and forms of address in Martinican French. *Society for Pidgin and Creole Linguistics Winter Meeting 2024*.
@@ -29,6 +30,7 @@ author_profile: true
 
 
 ## Invited talks
--2024: The pitfalls of a pseudo-objective (socio)linguistcs: Evidence from the Martinican case. _Symposium “Decolonizing linguistics”_, Leiden University.
+- 2024: Toward a uniformitarian approach to the alleged similarity of creole languages. _UB Creolist Workshop_, University at Buffalo.
+- 2024: The pitfalls of a pseudo-objective (socio)linguistcs: Evidence from the Martinican case. _Symposium “Decolonizing linguistics”_, Leiden University.
 - 2023: Martinican Creole "definite" *wh*-questions: At the interface of syntax and pragmatics. *University at Buffalo*. ([pdf](https://sterosier.github.io/files/Terosier_UB_talk.pdf))
 - 2015: Didactique des langues étrangères en contexte diglossique : quel rôle pour le créole dans l'apprentissage de l'anglais? *Journée d'étdude du CRILLASH*.
