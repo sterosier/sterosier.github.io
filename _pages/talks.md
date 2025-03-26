@@ -30,6 +30,7 @@ author_profile: true
 
 
 ## Invited talks
+- 2025: Toward a uniformitarian account of gender loss in creolization. _Romance Linguistics Circle (RoLinC)_, Online. [link](https://rolinc.org/wp-content/uploads/2025/02/rolinc_2025_gender_loss.pdf)
 - 2024: Toward a uniformitarian approach to the alleged similarity of creole languages. _UB Creolist Workshop_, University at Buffalo.
 - 2024: The pitfalls of a pseudo-objective (socio)linguistcs: Evidence from the Martinican case. _Symposium “Decolonizing linguistics”_, Leiden University.
 - 2023: Martinican Creole "definite" *wh*-questions: At the interface of syntax and pragmatics. *University at Buffalo*. ([pdf](https://sterosier.github.io/files/Terosier_UB_talk.pdf))
