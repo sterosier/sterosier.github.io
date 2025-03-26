@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Journal articles
-- Accepted: **Térosier,Stéphane**. Common ground management in _wh_-questions: The case of Martinican Creole LA-marked _wh_-questions. _Isogloss_.
+- 2025: **Térosier,Stéphane**. Common ground management in _wh_-questions: The case of Martinican Creole LA-marked _wh_-questions. _Isogloss. Open Journal of Romance Linguistics_, _11_(30), 1-25.
 - 2024: **Térosier, Stéphane**. Les interrogatives partielles « définies » du créole martiniquais. *Études créoles, 41*(1-2). ([pdf](https://journals.openedition.org/etudescreoles/pdf/1597))
 - 2022: **Térosier, Stéphane**, Noémie François-Haugrin and Minella Duzerol. La notion de langue(s) standard(s) en Martinique. *Tinkuy*. ([pdf](https://llm.umontreal.ca/public/FAS/llm/Documents/2-Recherche/Tinkuy_No_27.pdf))
 - 2022: **Térosier, Stéphane**. Didactique des langues étrangères en contexte diglossique: quel rôle pour le créole martiniquais dans l’apprentissage de l’anglais. *Kréolistika*.
@@ -21,6 +21,6 @@ author_profile: true
 - 2020: **Térosier, Stéphane**. Les modaux du créole martiniquais : des verbes à montée. In G. L'Étang, C. Mencé-Caster and R. Confiant (eds.) _Tracées de Jean Bernabé_, 145-161.
 
 ## Book chapters
-- Accepted: Chiara, Ardoino, Noémie François-Haugrin and **Stéphane Térosier**. Testing Perceptions of Formality in Martinican Creole: Diglossia, Standardisation and Changing Indexicalities.
+- In press: Chiara, Ardoino, Noémie François-Haugrin and **Stéphane Térosier**. Testing Perceptions of Formality in Martinican Creole: Diglossia, Standardisation and Changing Indexicalities. In Adnan Ajšić and Rachelle Vessey (Eds.), _Current Approaches to Language Ideology and Metalinguistic Discourse_. Routledge.
 - 2023: **Térosier, Stéphane**. A few remarks on gender in Martinican Creole. In P. Cabredo Hofherr, H. Glaude and E. Soare (eds.). *La grammaire est une fête/Grammar is a moveable feast. Mélanges offerts à/A webschrift for Anne Zribi-Hertz*, 327-340. Paris: Zenodo. ([pdf](https://sterosier.github.io/files/Terosier-2023-genderMC.pdf))
 - 2023: Cabredo Hofherr, Patricia, and **Stéphane Térosier**. *Give*-constructions with final clauses - comparing Haitian and Martinican. In P. Cabredo Hofherr, H. Glaude and E. Soare. *La grammaire est une fête/Grammar is a moveable feast. Mélanges offerts à/A webschrift for Anne Zribi-Hertz*, 93-102. Paris: Zenodo. ([pdf](https://sterosier.github.io/files/CabredoHofherr-Terosier-2023-give.pdf))
