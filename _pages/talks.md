@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Refereed conference talks
+- 2025: Martinican Creole _la_ + _ka_ constructions are biclausal. ([pdf](https://sterosier.github.io/files/SPCL_2025Summer_LaKaConstruction.pdf))
 - 2025: An investigation into the role of feature interpretability as a constraint on feature recombination._Society for Pidgin and Creole Linguistics_, Philadelphia. ([pdf](https://sterosier.github.io/files/SPCLwinter2025_feature_interpretability.pdf))
 - 2024: Les voyelles du créole martiniquais. _Congrès mondial de linguistique française_, Université de Lausanne. With Benjamin Storme.
 - 2024: Un(der)-standardised languages and purism: a view from Creole-speaking Martinique. _Sociolinguistics Symposium 25_. With Chiara Ardoino and Noémie François-Haugrin.
