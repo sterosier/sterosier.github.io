@@ -12,10 +12,11 @@ author_profile: true
 - 2022: **Térosier, Stéphane**, Noémie François-Haugrin and Minella Duzerol. La notion de langue(s) standard(s) en Martinique. *Tinkuy*. ([pdf](https://llm.umontreal.ca/public/FAS/llm/Documents/2-Recherche/Tinkuy_No_27.pdf))
 - 2022: **Térosier, Stéphane**. Didactique des langues étrangères en contexte diglossique: quel rôle pour le créole martiniquais dans l’apprentissage de l’anglais. *Kréolistika*.
 - 2017: **Térosier, Stéphane**. Apprendre une L3 en contexte diglossique : rôle mineur pour langue minorée. _Revue transatlantique d'études suisses_, 6-7, 235-252. ([pdf](https://llm.umontreal.ca/public/FAS/llm/Documents/2-Recherche/RTES-6-7.pdf#page=235))
-
+ 
 ## Conference proceedings
+- 2025: **Térosier, Stéphane**. Towards a uniformitarian account of creole similarity: The loss of gender in Martinican Creole. _Proceedings of the Linguistic Society of America (PLSA)_, _10_(1), 5948-5948. ([link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5948/5747))
 - 2024: Storme, Benjamin and **Stéphane Térosier**. Les voyelles du créole martiniquais. _SHS Web of Conferences_ (191). ([pdf](https://www.shs-conferences.org/articles/shsconf/pdf/2024/11/shsconf_cmlf2024_02011.pdf))
-- 2024: Ardoino, Chiara, Noémie François-Haugrin and **Stéphane Térosier**. The preserve of the rural elderly, or a language for modern life? Authenticity, anonymity and indexical ambiguity in Martinican Creole. _Proceedings of the Linguistic Society of America_. ([pdf](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/download/5706/5507))
+- 2024: Ardoino, Chiara, Noémie François-Haugrin and **Stéphane Térosier**. The preserve of the rural elderly, or a language for modern life? Authenticity, anonymity and indexical ambiguity in Martinican Creole. _Proceedings of the Linguistic Society of America (PLSA)_. ([pdf](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/download/5706/5507))
 - 2024: **Térosier, Stéphane**. A first look at the clausal determiner in Martinican Creole “definite” wh-questions. _Proceedings of “50 ans de lingustique à l’UQAM”_. ([pdf](https://archipel.uqam.ca/17542/1/14-Terosier_2024_A%20first%20look%20at%20the%20clausal%20determiner%20in%20Martinican%20creole_direct%20WH-questions.pdf))
 - 2021: **Térosier, Stéphane**. Definiteness and specificity in the Martinican Creole DP: Evidence from relative clauses. _Proceedings of the 2019 Annual Congress of the Canadian Linguistics Association_. ([pdf](https://cla-acl.ca/pdfs/actes-2019/Terosier-CLA-2019.pdf))
 - 2020: **Térosier, Stéphane**. Les modaux du créole martiniquais : des verbes à montée. In G. L'Étang, C. Mencé-Caster and R. Confiant (eds.) _Tracées de Jean Bernabé_, 145-161.
