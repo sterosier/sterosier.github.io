@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 ## Refereed conference talks
-- 2025: Martinican Creole _la_ + _ka_ constructions are biclausal. ([pdf](https://sterosier.github.io/files/SPCL_2025Summer_LaKaConstruction.pdf))
-- 2025: An investigation into the role of feature interpretability as a constraint on feature recombination._Society for Pidgin and Creole Linguistics_, Philadelphia. ([pdf](https://sterosier.github.io/files/SPCLwinter2025_feature_interpretability.pdf))
+- 2026: Argumenets for a biclausal analysis of the Martinican Creole progressive construction. _44th West Coast Conference on Formal Linguistics_, UNAM.
+- 2025: Martinican Creole _la_ + _ka_ constructions are biclausal. _Society for Pidgin and Creole Linguistics summer meeting_, Kingston, Jamaica. ([pdf](https://sterosier.github.io/files/SPCL_2025Summer_LaKaConstruction.pdf))
+- 2025: An investigation into the role of feature interpretability as a constraint on feature recombination. _Society for Pidgin and Creole Linguistics winter meeting_, Philadelphia. ([pdf](https://sterosier.github.io/files/SPCLwinter2025_feature_interpretability.pdf))
 - 2024: Les voyelles du créole martiniquais. _Congrès mondial de linguistique française_, Université de Lausanne. With Benjamin Storme.
 - 2024: Un(der)-standardised languages and purism: a view from Creole-speaking Martinique. _Sociolinguistics Symposium 25_. With Chiara Ardoino and Noémie François-Haugrin.
 - 2024: Vulnerability at the syntax-pragmatics interface: Evidence from titles and forms of address in Martinican French. *Society for Pidgin and Creole Linguistics Winter Meeting 2024*.
@@ -31,6 +32,8 @@ author_profile: true
 
 
 ## Invited talks
+- 2025: Creole genesis and the three factors in language design. _Department of Linguistics Colloquium Series_, University at Buffalo.
+- 2025: Rethinking creole studies: Going beyond binaries. _Linguistics Speaker Series_, University of Pennsylvania.
 - 2025: Toward a uniformitarian account of gender loss in creolization. _Romance Linguistics Circle (RoLinC)_, Online. ([link](https://rolinc.org/wp-content/uploads/2025/02/rolinc_2025_gender_loss.pdf))
 - 2024: Toward a uniformitarian approach to the alleged similarity of creole languages. _UB Creolist Workshop_, University at Buffalo.
 - 2024: The pitfalls of a pseudo-objective (socio)linguistcs: Evidence from the Martinican case. _Symposium “Decolonizing linguistics”_, Leiden University.
