@@ -34,7 +34,7 @@ author_profile: true
 
 
 ## Invited talks
-- 2026: De l’importance d’une créolistique libérée du relativisme linguistique. _XVIIe Colloque International des Études Créoles_, Université des Antilles et de la Guyane. ([pdf](https://sterosier.github.io/files/CIEC2026_Slides))
+- 2026: De l’importance d’une créolistique libérée du relativisme linguistique. _XVIIe Colloque International des Études Créoles_, Université des Antilles et de la Guyane. ([pdf](https://sterosier.github.io/files/CIEC2026_Slides.pdf))
 - 2025: Creole genesis and the three factors in language design. _Department of Linguistics Colloquium Series_, University at Buffalo.
 - 2025: Rethinking creole studies: Going beyond binaries. _Linguistics Speaker Series_, University of Pennsylvania.
 - 2025: Toward a uniformitarian account of gender loss in creolization. _Romance Linguistics Circle (RoLinC)_, Online. ([link](https://rolinc.org/wp-content/uploads/2025/02/rolinc_2025_gender_loss.pdf))
