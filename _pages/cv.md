@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-This is my [cv](https://sterosier.github.io/files/StephaneTerosier_CV.pdf).
+This is my [cv](https://sterosier.github.io/files/Stephane_Terosier_CV-English.pdf).
